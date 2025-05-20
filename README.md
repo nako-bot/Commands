@@ -1,2 +1,2 @@
-# Command List
+## Command List
 Nako Command List
