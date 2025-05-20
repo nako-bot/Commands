@@ -188,3 +188,4 @@
     - `game` - 🎮 Searches a game on Steam.
   - `weather` - ⛅ Search for the weather report of a location.
   - `youtube` - 📹 Search for a YouTube videos, channels or playlists.
+- `/translate` - 🌐 Translate a text.
