@@ -1,2 +1,2 @@
-# help
+### Command List
 Nako Command List
