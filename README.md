@@ -9,6 +9,7 @@
   - `megumin` - 🖼 Random images of Megumin.
   - `shinobu` - 🖼 Random images of Shinobu.
   - `waifu` - 🖼 Random waifu images.
+- `/anime news` - 📰 See the latest news published by MyAnimeList.
 - `/anime popular` - ⭐ All-Time Popular Anime.
 - `/anime source` - 🔎 Search for the source of an anime.
 - `/anime trending` - ⭐ Trending Anime Now.
