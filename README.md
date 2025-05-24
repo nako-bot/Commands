@@ -13,7 +13,7 @@
 - `/anime popular` - ⭐ All-Time Popular Anime.
 - `/anime source` - 🔎 Search for the source of an anime.
 - `/anime trending` - ⭐ Trending Anime Now.
-= `/manga popular` - ⭐ All-Time Popular Manga.
+- `/manga popular` - ⭐ All-Time Popular Manga.
 - `/manga trending` - ⭐ Trending Manga Now.
 
 ### Config ⚙
