@@ -2,11 +2,16 @@
 
 ### Anime 🎌
 
+- `/anime baka` - 🎭 Say BAKA!!.
+- `/anime bang` - 🎭 Bang Bang~ 👉💥.
 - `/anime episodes` - 📺 Shows the latest episodes from Crunchyroll.
+- `/anime gee` - 🎭 You stare.
 - `/anime image`
   - `awoo` - 🖼 Awoooo.
-  - `neko` - 🖼 Random neko girl images.
+  - `husbando` - 🖼 Random husbando images.
+  - `kitsune` - 🖼 Nin niin.
   - `megumin` - 🖼 Random images of Megumin.
+  - `neko` - 🖼 Random neko girl images.
   - `shinobu` - 🖼 Random images of Shinobu.
   - `waifu` - 🖼 Random waifu images.
 - `/anime news` - 📰 See the latest news published by MyAnimeList.
