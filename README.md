@@ -6,6 +6,7 @@
 - `/anime bang` - 🎭 Bang Bang~ 👉💥.
 - `/anime episodes` - 📺 Shows the latest episodes from Crunchyroll.
 - `/anime gee` - 🎭 You stare.
+- `/anime hoam` - 🎭 You're yawning.
 - `/anime image`
   - `awoo` - 🖼 Awoooo.
   - `husbando` - 🖼 Random husbando images.
@@ -195,5 +196,15 @@
   - `steam`
     - `game` - 🎮 Searches a game on Steam.
   - `weather` - ⛅ Search for the weather report of a location.
+  - `wiki` - 🌐 Search something on Wikipedia.
   - `youtube` - 📹 Search for a YouTube videos, channels or playlists.
 - `/translate` - 🌐 Translate a text.
+- `/utility`
+  - `base64`
+    - `decode` - 📝 Decodes a based64 string.
+    - `encode` - 📝 Encodes a string in base64.
+  - `color`
+    - `hex` - 🎨 Shows a color using hex.
+    - `rgb` - 🎨 Converts an RGB color to hex.
+  - `emoji` - 🙂 Shows a large image of a custom emoji.
+  - `membercount` - 👤 View the member count of this server.
